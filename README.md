@@ -50,9 +50,10 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 ## :page_facing_up: Lab Five Practice 
 
-:arrow_right: `Create a function that calculates the area of a rectangle. If the arguments are invalid, your function must return`
+:arrow_right: `Create a function that calculates the area of a rectangle. If the arguments are invalid, your function must return an error`
 
 :arrow_right: `Example: area(3, 4) ➞ 12`
+:arrow_right: `Example: area('a', 4) ➞ error`
 
 :arrow_right: `Create a function that takes in an array of numbers and returns the sum of its cubes.`
 
