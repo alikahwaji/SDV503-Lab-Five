@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to SDV503 Lab Four 👋</h1>
+<h1 align="center">Welcome to SDV503 Lab Five 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/alikahwaji/Lab-template#readme" target="_blank">
@@ -48,20 +48,16 @@ Check the :white_check_mark: Todos & :x: Not Todos
 |:four:|Do NOT Share the lab repo :closed_lock_with_key:|:heavy_multiplication_x:|
 |:five:|Do NOT re-use this repo for other coding activities :recycle:|:heavy_multiplication_x:|
 
-## :page_facing_up: Lab Four Practice 
+## :page_facing_up: Lab Five Practice 
 
-:arrow_right: `Provide your answers for the questions below in your journal.md: `
+:arrow_right: `Create a function that calculates the area of a rectangle. If the arguments are invalid, your function must return`
 
-:arrow_right: `Q: Explain the JavaScript switch statement and provide an example with your explanation.`
+:arrow_right: `Example: area(3, 4) ➞ 12`
 
-:arrow_right: `Q: What are the advantages & disadvantages of the JavaScript switch statements?`
+:arrow_right: `Create a function that takes in an array of numbers and returns the sum of its cubes.`
 
-:arrow_right: `Q: What is the difference between if/else and switch statments?`
-
-:arrow_right: `Q: Explain JavaScript loops with an example.`
-
-:arrow_right: `Q: what are the types of loops in javascript. Give one example for each type?`
-
+:arrow_right: `Example: sumOfCubes([1, 5, 9]) ➞ 855
+                        // Since 1^3 + 5^3 + 9^3 = 1 + 125 + 729 = 855`
 
 
 ## :books: Resources 
